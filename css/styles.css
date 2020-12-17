@@ -3,7 +3,6 @@ hr {
     border-width: 5px;
     height: 1px;
     width: 20%;
-
 }
 
 body{
@@ -21,5 +20,17 @@ h1{
 }
 
 p{
+    text-align: center;
+}
+
+/************************************ CLASSES ****************************************/
+
+.title{
+    font-size: 30px;
+    text-align: center;
+}
+
+.description{
+    font-size: large;
     text-align: center;
 }
